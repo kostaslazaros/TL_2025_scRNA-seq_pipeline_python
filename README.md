@@ -1,4 +1,4 @@
-# software_technology_2025_python_scRNA_seq_pipeline
+# Software Technology 2025 Python Pipeline
 Example computational pipeline for scRNA-seq data (software technology project 2025)
 
 This is the source code for an example bioinformatics pipeline regarding the processing and analysis of scRNA-seq data using Scanpy
